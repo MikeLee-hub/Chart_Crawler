@@ -1,23 +1,28 @@
-## 구동환경
-os : mac os (macOS Monterey 12.6)
-node : v18.12.1
-frontend 설치프로그램 : ./package.json 파일 참조
-backend 설치프로그램 : ./backend/package.json 파일 참조
+# MERN_Stack_Practice
+Simple web project with MERN stack</br>
+Crawling Billboard chart web sites
 
+</br>
 
-## frontend server 구동
+### frontend server 구동
 In the project directory, you can run:
 
-### `npm init`
-### `npm install`
-### `npm start`
+ `npm init`
+ 
+ `npm install`
+ 
+ `npm start`
 
 
-## backend server 구동
+### backend server 구동
 In the project directory, you can run:
 
-### `cd backend`
-### `npm init`
-### `npm install`
-### `npm install -g nodemon`
-### `nodemon server`
+`cd backend`
+
+`npm init`
+
+`npm install`
+
+`npm install -g nodemon`
+
+`nodemon server`
