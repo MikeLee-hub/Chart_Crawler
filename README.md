@@ -10,7 +10,6 @@ Simple web project with MERN stack</br></br>
 ## 구동 방법
 
 ### frontend server 구동
-In the project directory, you can run:
 
  `npm init`
  
@@ -20,7 +19,6 @@ In the project directory, you can run:
 
 
 ### backend server 구동
-In the project directory, you can run:
 
 `cd backend`
 
