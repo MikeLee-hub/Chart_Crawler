@@ -1,4 +1,4 @@
-# MERN_Stack_Practice 
+# Chart_Crawler
 Simple web project with MERN stack</br></br>
 
 ## 빌보드 차트 검색 사이트
